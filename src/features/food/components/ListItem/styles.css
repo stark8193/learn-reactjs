@@ -1,0 +1,10 @@
+.item__poto > img{
+    width: 160px;
+    border-radius: 10px;
+    max-height: 106.5px;
+    margin-top: 20px;
+}
+.item__name{
+    font-weight: bold;
+    text-align: center;
+}

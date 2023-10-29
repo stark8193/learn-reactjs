@@ -1,0 +1,7 @@
+li{
+    list-style-type: none;
+    cursor: pointer;
+}
+li.complete{
+    text-decoration: underline;
+}
